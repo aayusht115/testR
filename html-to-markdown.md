@@ -1,7 +1,7 @@
 Predict activity quality from activity monitors
 ===============================================
 
-#### _Aayush Thakur_#### 
+#### _Aayush Thakur_ 
 23.  October 2021
 
 Synopsis
