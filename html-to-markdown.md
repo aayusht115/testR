@@ -263,5 +263,3 @@ In this section the files for the project submission are generated using the ran
     }
     
     pml_write_files(predictSubmission)
-
-// add bootstrap table styles to pandoc tables $(document).ready(function () { $('tr.header').parent('thead').parent('table').addClass('table table-condensed'); }); (function () { var script = document.createElement("script"); script.type = "text/javascript"; script.src = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML\_HTMLorMML"; document.getElementsByTagName("head")\[0\].appendChild(script); })();
